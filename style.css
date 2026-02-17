@@ -13,15 +13,20 @@ header {
 }
 
 nav {
+  display: flex
+  justify content: center;
+  gap: 30px
   background-color: #4b5563;
-  padding: 10px;
-  text-align: center;
+  padding: 20px;
 }
 
-nav a: hover {
+nav a: {
   color: #fbbf24;
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
+  margin: 20px
+  font size: 1.2rem
+  font weight: bold;
 }
 
 .skill-info {
