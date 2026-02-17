@@ -15,4 +15,4 @@ I am an undergraduate student who follow Bachelors of Science in Biotechnology
 The purpose of this portfolio is to showcase my academic background, skills, and interests as part of my coursework.
 
 ![microscopic images ](images.jpeg)
-![Experiment Setup](images/experiment_setup.png)
+![Experiment Setup](images.jpeg)
