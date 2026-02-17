@@ -11,22 +11,21 @@ header {
   padding: 20px;
   text-align: center;
 }
-
 nav {
   display: flex;
   justify-content: center;
-  gap: 30px
+  gap: 30px;  
   background-color: #4b5563;
   padding: 20px;
 }
 
 nav a {
-  color: #black;
+  color: black;   
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
-  margin: 15px
-  font size: 1.5rem
-  font weight: bold;
+  margin: 15px;   
+  font-size: 1.5rem;   
+  font-weight: bold;  
   text-decoration: none;
 }
 
@@ -80,15 +79,14 @@ nav a {
 }
 
 section {
-  background-color: white;
-  margin: 30px auto;
-  padding: 30px;
+  background-color:  #e5e7eb;
+  margin: 80px auto;
+  padding: 60px 40px;
   width: 85%; 
-  border-radius: 12px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
 }
 
-<style>
   .resume-btn {
     display: inline-block;
     padding: 14px 28px;
@@ -104,7 +102,6 @@ section {
     background-color: #34495e;
     transform: scale(1.05);
   }
-</style>
 
 h2 {
     margin-bottom: 15px;
