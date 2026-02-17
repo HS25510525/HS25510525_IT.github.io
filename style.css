@@ -46,6 +46,12 @@ nav a: hover {
     color: #2563eb;
 }
 
+.office { 
+    width: 85%; 
+    background: #d83b01; 
+}
+
+
 .progress {
     background: #e5e7eb;
     border-radius: 20px;
