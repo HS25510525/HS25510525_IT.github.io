@@ -14,16 +14,18 @@ header {
 nav {
   display: flex;
   justify-content: center;
-  gap: 30px;  
+  gap: 50px;  
   background-color: #4b5563;
-  padding: 20px;
+  padding:  25px 0;
+  transition: 0.3s ease;
 }
 
-nav a {
+nav a hover {
+  transform: translateY(-3px); 
   color: black;   
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
-  margin: 15px;   
+  margin: 0 15px;   
   font-size: 1.5rem;   
   font-weight: bold;  
   text-decoration: none;
