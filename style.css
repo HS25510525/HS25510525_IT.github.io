@@ -80,14 +80,23 @@ nav a {
 }
 
 <style>
-  section {
-    padding: 100px 20px;
+  .resume-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: #2c3e50;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s ease;
   }
 
-  h2 {
-    margin-bottom: 30px;
+  .resume-btn:hover {
+    background-color: #34495e;
+    transform: scale(1.05);
   }
 </style>
+
 
 section {
   background-color: white;
