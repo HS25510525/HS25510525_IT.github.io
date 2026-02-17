@@ -89,6 +89,19 @@ section {
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
+resume-btn{
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  display: inline-block;
+  transition: background-coloro.3s;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+
 h2 {
     margin-bottom: 15px;
     color: #1f2937;
