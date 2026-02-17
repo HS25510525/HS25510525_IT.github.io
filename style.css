@@ -20,8 +20,8 @@ nav {
   padding: 20px;
 }
 
-nav a: {
-  color: #fbbf24;
+nav a: hover {
+  color: #ffffff;
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
   margin: 20px
