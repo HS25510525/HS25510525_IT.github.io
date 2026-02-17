@@ -79,6 +79,15 @@ nav a {
     from { width: 0; }
 }
 
+<style>
+  section {
+    padding: 100px 20px;
+  }
+
+  h2 {
+    margin-bottom: 30px;
+  }
+</style>
 
 section {
   background-color: white;
