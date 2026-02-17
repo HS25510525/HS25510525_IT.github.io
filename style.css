@@ -11,6 +11,15 @@ header {
   padding: 20px;
   text-align: center;
 }
+
+.welcome {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 30px;
+  color: #1f2937;
+}
+
+
 nav {
   display: flex;
   justify-content: center;
