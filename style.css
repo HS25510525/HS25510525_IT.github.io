@@ -14,19 +14,20 @@ header {
 
 nav {
   display: flex;
-  justify content: center;
+  justify-content: center;
   gap: 30px
   background-color: #4b5563;
   padding: 20px;
 }
 
 nav a {
-  color: #4b5563;
+  color: #black;
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
   margin: 15px
   font size: 1.5rem
   font weight: bold;
+  text-decoration: none;
 }
 
 .skill-info {
