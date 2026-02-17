@@ -46,12 +46,10 @@ nav a: hover {
     color: #2563eb;
 }
 
-.office { 
-    width: 85%; 
-    background: #d83b01; 
-}
-
 #progress-container {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
   background: #eee;
   height: 10px;
