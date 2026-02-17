@@ -20,12 +20,12 @@ nav {
   padding: 20px;
 }
 
-nav a: hover {
+nav a {
   color: #ffffff;
   border-bottom: 2px solid #fbbf24;
   padding-bottom: 3px;
-  margin: 20px
-  font size: 1.2rem
+  margin: 15px
+  font size: 1.5rem
   font weight: bold;
 }
 
